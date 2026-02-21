@@ -11,8 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Echo kode-kloud-123456
+    - name: Echo ACCESS_ID
       run: echo $ACCESS_ID
 
 
-      
